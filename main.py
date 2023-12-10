@@ -1,3 +1,5 @@
+#3 Определить суммарную стоимость билетов женщин на борту в возрастном интервале медиана ± 5 лет
+
 import csv
 filename = open('Titanic.csv', 'r')
 file = csv.DictReader(filename)
